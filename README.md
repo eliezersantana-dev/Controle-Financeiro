@@ -23,7 +23,7 @@ Aplicação em Java, executada no console, para organizar a vida financeira mens
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/elisantana-dev/controle-financeiro.git
+   git clone https://github.com/elisantana-dev/Controle-Financeiro.git
    ```
 2. Abra o projeto no IntelliJ IDEA
 3. Execute a classe `Main`
