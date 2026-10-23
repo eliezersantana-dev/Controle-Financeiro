@@ -8,6 +8,7 @@ Aplicação em Java, executada no console, para organizar a vida financeira mens
 - Resumo financeiro e cálculo de saldo (o valor guardado no cofre é descontado do saldo)
 - Escolha do mês para consultar e registrar movimentações
 - Cofre com depósito, retirada e consulta de valor
+  - Trancar e destrancar o cofre 
   - Finalidade e senha de 4 dígitos definidas na primeira utilização
   - Senha exigida em depósito e retirada quando o cofre está trancado
   - Limite de 3 tentativas de senha
